@@ -1,1 +1,1 @@
-Mój pierwszy commit.
+echo Hello World!
